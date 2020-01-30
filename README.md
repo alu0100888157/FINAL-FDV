@@ -31,4 +31,4 @@ Como se puede observar en las imágenes de abajo, la cámara del jugador 1 tiene
 ![](./Proyecto 2D_fundamentos/camara jugador 2.gif)
 
 Por último, la cámara grupal se fija en los dos jugadores, pero tiene prioridad por el jugador 2
-![](./Proyecto 2D_fundamentos/camara grupo.gif)
+![](/Proyecto 2D_fundamentos/camara grupo.gif)
